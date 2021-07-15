@@ -1,1 +1,1 @@
-LINK: https://mickeysss.github.io/rededge-landing-page/
+LINK: https://mickeysss.github.io/rededge-spa
